@@ -19,7 +19,7 @@ a fully managed way.
 
 ### *go get*
 
-    $ go get -ugithub.com/evrenios/slack
+    $ go get -u github.com/evrenios/slack
 
 ## Example
 
