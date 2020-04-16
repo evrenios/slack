@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/slack-go/slack"
+	"github.com/evrenios/slack"
 )
 
 func main() {
